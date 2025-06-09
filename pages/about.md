@@ -12,6 +12,10 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
+## Placeholder
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius porta dolor et rutrum. Praesent erat diam, sollicitudin sit amet rhoncus id, lacinia a turpis. Suspendisse sollicitudin ante eget vehicula laoreet. Quisque pellentesque ligula malesuada turpis aliquam, ut tincidunt elit placerat. Mauris rhoncus arcu in dolor finibus, vitae accumsan neque faucibus. Nullam in efficitur nibh, in semper purus. Vivamus interdum diam tincidunt dui sollicitudin, tincidunt lacinia orci tempus. Integer eget felis eu nulla porta pellentesque. Phasellus ut ante et felis sollicitudin aliquet. Nullam quis erat mi.
+
 ## About the Collection
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
